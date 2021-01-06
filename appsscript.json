@@ -1,0 +1,15 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "KUnotifyer",
+        "libraryId": "18ZKUrHXPD_tOu7oUX8aejqPvr3qf_L6QP5kiBzWaT_gK8TcoetqLq9O9",
+        "version": "16",
+        "developmentMode": false
+      }
+    ]
+  }
+}
